@@ -1,0 +1,32 @@
+Responsibility: Build & Release Automation:
+·         Provide solution to implement Continuous integration & continuous deployment solutions for medium-sized project
+·         Manage Medium to large-sized projects
+·         Guide the team to solve build & deployment automation issues
+·         Design/Implement release orchestration solutions for medium or large -sized projects
+·         Participates in the discovery phase of large-sized projects to come up with high level design
+ 
+Infrastructure Automation:
+·         Develop playbooks/cookbooks for configuration management for medium to large-sized projects
+·         Install and optimizing tools on cloud infrastructure
+·         Design/Implment solution for infrastructure automation over cloud infrastructure
+·         Design/implement solution for data center infrastructure automation
+·         Implement optimized complex networking configurations
+·         Implement optimized complex storage setup
+ 
+Log Management Solutions:
+·         Configure listener and optimize listeners
+·         Install and optimize log management tool
+·         Performing admistrative activities on the log management tool
+·         Develop custom scripts to enable log management
+·         Design/implement log management solution for medium to large-sized projects
+ 
+Must Have Skills:
+·         CI/CD
+·         JIRA
+·         Azure
+·         Kubernetes
+·         Jenkins
+·         Confluence
+·         Linux
+·         Git
+·         Jenkins
